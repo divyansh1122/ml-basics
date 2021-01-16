@@ -1,6 +1,7 @@
 # ml-basics
 
 1. Markdown Fundamentals
+
 2. Linear Regression
 >2.1 **linearRegression1** - Basics
 
